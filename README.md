@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w3tahsan" alt="w3tahsan" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Vue JS**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://tahsan.dev/](https://tahsan.dev/)
 
